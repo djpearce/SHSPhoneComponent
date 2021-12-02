@@ -6,10 +6,10 @@
 //  Copyright (c) 2013 SHS. All rights reserved.
 //
 
-#import "SHSPhoneNumberFormatter.h"
-#import "SHSPhoneNumberFormatter+UserConfig.h"
-#import "SHSPhoneLogic.h"
-#import "SHSPhoneTextField.h"
+#import "Public/SHSPhoneNumberFormatter.h"
+#import "Public/SHSPhoneNumberFormatter+UserConfig.h"
+#import "Public/SHSPhoneLogic.h"
+#import "Public/SHSPhoneTextField.h"
 
 @implementation SHSPhoneNumberFormatter
 
